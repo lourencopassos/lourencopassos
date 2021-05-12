@@ -34,3 +34,4 @@ Hello, my name is Lourenço! I am a fullstack software developer passionate abou
  * Advanced CSS
 
 
+Email me @ lo.passos93@gmail.com or Whatsapp @ 55-51-996106010
