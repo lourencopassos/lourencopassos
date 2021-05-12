@@ -8,21 +8,13 @@ Hello, my name is Lourenço! I am a fullstack software developer passionate abou
 Now, as a fullstack software developer, I'm able to bring my expertise in business, startups and innovation to the companies I've worked for, such as fintechs, startups, digital banks and telecomunications.
 
 🛠️ Hard Skills:
- * Node.Js
- * React.Js
- * React Native
- * Typescript
- * Javscript
- * HTML
- * CSS
- * MySQL
- * MongoDB
- * Heroku
- * GCP
- * AWS
- * Git
- * Photoshop
- * Illustrator
+ * **Frameworks:** Node.Js, React.Js,React Native
+ * **Programming Languages:** Typescript, Javascript
+ * **Web Technologies:** HTML, CSS
+ * **Databases:** MySQL, MongoDB, PostsgreSQL
+ * **Infrastructure:** Heroku, GCP, AWS
+ * **Tools**: Git
+ * **Design**: Photoshop, Illustrator, XD
 
   💡 Soft Skills:
   * Innovation
