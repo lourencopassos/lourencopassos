@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-### Are you looking for a Fullstack Software Developer?  👨‍💻
-### You might just have found one!
+### Are you looking for a Fullstack Software Developer? You might just have found one!
 
 Hello, my name is Lourenço! I am a fullstack software developer passionate about solving problems through creativity, innovation and great code. Originally from the marketing area, I've decided to become a software developer after my startup needed more coding power. I fell in love with it and after that I decided I wanted to improve every day on software development. 
 
