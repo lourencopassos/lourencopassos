@@ -6,6 +6,8 @@ Hello, my name is Lourenço! I am a fullstack software developer passionate abou
 
 Now, as a fullstack software developer, I'm able to bring my expertise in business, startups and innovation to the companies I've worked for, such as fintechs, startups, digital banks and telecomunications.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lourencopassos)](https://github.com/anuraghazra/github-readme-stats)
+
 🛠️ Hard Skills:
  * **Frameworks:** Node.Js, React.Js,React Native
  * **Programming Languages:** Typescript, Javascript
@@ -14,6 +16,8 @@ Now, as a fullstack software developer, I'm able to bring my expertise in busine
  * **Infrastructure:** Heroku, GCP, AWS
  * **Tools**: Git
  * **Design**: Photoshop, Illustrator, XD
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lourencopassos)
 
   💡 Soft Skills:
   * Innovation
