@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there!
 
 ### Are you looking for a Fullstack Software Developer? You might just have found one!
 
