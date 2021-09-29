@@ -9,8 +9,8 @@ Now, as a fullstack software developer, I'm able to bring my expertise in busine
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lourencopassos)](https://github.com/anuraghazra/github-readme-stats)
 
 🛠️ Hard Skills:
- * **Frameworks:** Node.Js, React.Js,React Native
- * **Programming Languages:** Typescript, Javascript
+ * **Frameworks:** Node.Js, React.Js,React Native, Angular
+ * **Programming Languages:** Typescript, Javascript, Python
  * **Web Technologies:** HTML, CSS
  * **Databases:** MySQL, MongoDB, PostsgreSQL
  * **Infrastructure:** Heroku, GCP, AWS
