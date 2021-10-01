@@ -15,7 +15,7 @@ Now, as a fullstack software developer, I'm able to bring my expertise in busine
  * **Databases:** MySQL, MongoDB, PostsgreSQL
  * **Infrastructure:** Heroku, GCP, AWS
  * **Tools**: Git
- * **Design**: Photoshop, Illustrator, XD
+ * **Design**: Photoshop, Illustrator, XD, Zeplin
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lourencopassos)
 
