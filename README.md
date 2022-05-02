@@ -14,7 +14,7 @@ Now, as a fullstack software developer, I'm able to bring my expertise in busine
  * **Web Technologies:** HTML, CSS
  * **Databases:** MySQL, MongoDB, PostsgreSQL
  * **Infrastructure:** Heroku, GCP, AWS
- * **Tools**: Git
+ * **Tools**: Git, GraphQL
  * **Design**: Photoshop, Illustrator, XD, Zeplin
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lourencopassos)
@@ -24,11 +24,7 @@ Now, as a fullstack software developer, I'm able to bring my expertise in busine
   * Curiosity
   * Communication
   * Resilience
-
-🤓 Studying
- * GraphQL
- * Python
- * Advanced CSS
-
+  * Proactivity
+  * Leadership
 
 Email me @ lo.passos93@gmail.com or Whatsapp @ 55-51-996106010
